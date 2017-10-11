@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">PlayoAssignment</string>
+    <string name="view_content">ViewContent</string>
+    <string name="loading_msg">Loading...</string>
+    <string name="no_network">Internet Not Available</string>
+    <string name="some_error_occured">Some Error Occured</string>
+    <string name="url_no_available">Url not available.</string>
 </resources>
