@@ -49,6 +49,7 @@ public class ActivityHome extends AppCompatActivity implements CallCompleted {
                 int totalItemCount = layoutmanager.getItemCount();
                 int lastVisibleItem = layoutmanager.findLastVisibleItemPosition();
 
+                // pagignation handling
                 if (!loading && totalItemCount <= (lastVisibleItem + 1)) {
                     try {
 

@@ -10,7 +10,7 @@ import android.webkit.WebViewClient;
 import playoassignment.com.playoassignment.util.Common;
 
 /**
- * Created by Anuj on 11/10/17.
+ * Activity for showing content in internal webview
  */
 
 public class ActivityContentViewer extends AppCompatActivity {
